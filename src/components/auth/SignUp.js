@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-class SIgnUp extends Component {
+class SignUp extends Component {
   state = {
     email: "",
     password: "",
@@ -49,4 +49,4 @@ class SIgnUp extends Component {
   }
 }
 
-export default SIgnUp;
+export default SignUp;
