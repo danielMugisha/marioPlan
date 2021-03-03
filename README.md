@@ -1,5 +1,6 @@
 # Mario Plan App for Project Plans
 
+## `Hosted on: https://mario-plan-47977.web.app/`
 In this project you can create projects providing title and content.
 ## Process
 
